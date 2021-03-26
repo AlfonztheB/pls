@@ -1,0 +1,21 @@
+h1 {
+  color: red;
+  font-size: 75px;
+ }
+
+ img:hover {
+   background-color: silver;
+ }
+
+
+ p {
+   font-size: 30px;
+ }
+
+.cucumber {
+  background-color: red;
+}
+
+.bacon {
+  background-color: pink;
+}
